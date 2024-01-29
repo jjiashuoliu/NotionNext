@@ -167,10 +167,10 @@ const BLOG = {
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 开关
   // 烟花色彩，感谢 https://github.com/Vixcity 提交的色彩
   FIREWORKS_COLOR: [
-    '0, 0, 0',
-    '0, 0, 0',
-    '0, 0, 0',
-    '0, 0, 0'
+    '255, 255, 255',
+    '255, 255, 255',
+    '255, 255, 255',
+    '255, 255, 255'
   ],
 
   // 樱花飘落特效
