@@ -21,7 +21,7 @@ const CONFIG = {
 
   MATERY_ARTICLE_ADJACENT: false, // 显示上一篇下一篇文章推荐
   MATERY_ARTICLE_COPYRIGHT: false, // 显示文章版权声明
-  MATERY_ARTICLE_RECOMMEND: false, // 文章关联推荐
+  MATERY_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   MATERY_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   MATERY_WIDGET_ANALYTICS: false, // 显示统计卡
